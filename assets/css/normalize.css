@@ -9,6 +9,11 @@ li{
 a{
     text-decoration: none;
 }
+:root{
+    --red:red;
+    --green:green;
+    --purple:purple;
+}
 img{
     object-fit: cover;
 }
