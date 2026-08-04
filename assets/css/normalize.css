@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    object-fit: cover;
+}
+
+main,header,section,div,figure,nav,footer,ul,figcaption{
+    display: flex;
+    flex-wrap: wrap;
+}
